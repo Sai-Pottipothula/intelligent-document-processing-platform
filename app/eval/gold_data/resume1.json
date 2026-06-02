@@ -1,0 +1,19 @@
+{
+  "name": "Mohammad Abdul Jabbar",
+  "emails": ["jabbar.ed@yahoo.com"],
+  "phones": ["+1 346 281-4129"],
+  "total_years_experience": 3,
+  "education": [{"institution": "Arizona State University", "degree": "Master of Science in Information Technology", "year": "2024"}],
+  "employment": [{"company": "OSAZ","title": "Data Engineer","start": "Feb 2025","end": "Present","summary": "Developed machine learning models for skin condition classification using Python, TensorFlow and PyTorch. Built Flask APIs deployed on Vertex AI, developed React applications, and automated CI/CD using GitHub Actions and Docker."},
+    {"company": "Arizona State University","title": "Data Analyst","start": "Aug 2023","end": "Dec 2024","summary": "Built Tableau dashboards, automated booking log analysis using Python and SQL, developed demand forecasting models using scikit-learn, optimized SQL queries, and documented ETL workflows."},
+    {"company": "Infosys","title": "Data Analytics Engineer","start": "Nov 2020","end": "Dec 2022","summary": "Modernized ETL pipelines using Python and AWS Glue, improved API performance through multithreading and caching, automated AWS infrastructure using Terraform, and mentored engineers on data engineering best practices."}
+  ],
+  "skills": ["Java","Python","C", "C++", "Scala", "JavaScript", "SQL", "Apache Spark", "Databricks", "Hadoop", "AWS","AWS CLI", "AWS Lambda", "AWS EC2", "Google Cloud Storage", "Cloud Run Functions", "Vertex AI", "TensorFlow", "Scikit-Learn", "Apache Airflow", "PySpark", "Jenkins", "Docker", "Kubernetes", "GitHub", "Agile Methodology", "Data Warehousing", "Star Schema", "Snowflake Schema Modeling", "Fact Tables", "Dimensional Modeling","Pivot Tables", "PostgreSQL", "MySQL", "Microsoft SQL Server", "Spark SQL","DynamoDB", "Amazon RDS", "Amazon Redshift", "Tableau","Power BI", "Google Sheets","Microsoft Excel"],
+  "certifications": ["AWS Certified – Solutions Architect", "SQL Associate by DataCamp"],
+  "location": null,
+  "linkedin": "www.linkedin.com/in/abdulj27",
+  "github": null,
+  "portfolio": null,
+  "confidence_score": 1.0,
+  "missing_fields": []
+}
