@@ -3,11 +3,11 @@ import tempfile
 from fastapi import FastAPI, File, Form, UploadFile
 from app.extractor import extract_resume
 
-app = FastAPI(title="AI Resume Extraction Service")
+app = FastAPI(title="Intelligent Document Processing Platform")
 
 @app.get("/")
 def root():
-    return {"message": "AI Resume Extraction Service is running"}
+    return {"message": "Intelligent Document Processing Platform is running"}
 
 @app.get("/health")
 def health():
