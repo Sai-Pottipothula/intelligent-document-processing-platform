@@ -135,20 +135,11 @@ docker run -p 8000:8000 --env-file .env resume-extraction-service
 - confidence_score
 - missing_fields
 
-## Evaluation rubric alignment
+## Future Improvements
 
-| Requirement | Implemented |
-|---|---|
-| JSON schema with 12+ fields | Yes |
-| GPT and Claude backends | Yes |
-| Selectable model flag | Yes |
-| CLI | Yes |
-| FastAPI endpoint | Yes |
-| Docker | Yes |
-| OCR stretch goal | Yes |
-| Confidence score stretch goal | Yes |
-| Streamlit UI stretch goal | Yes |
-| Markdown eval report | Yes |
+- Support more document types
+- Batch processing
+- Cloud deployment
 
 ## Notes
 
