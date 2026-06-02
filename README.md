@@ -1,6 +1,8 @@
-# AI Resume Extraction Service
+# Intelligent Document Processing (IDP) Platform
 
-End-to-end structured data extraction service for resumes. It accepts messy resume PDFs and returns strict JSON using either GPT or Claude.
+An AI-powered document intelligence platform that transforms unstructured PDF documents into validated structured JSON using either GPT or Claude.
+
+The platform currently supports resume extraction and is designed to extend to invoices, insurance policies, contracts, support tickets, and other enterprise documents.
 
 ## Features
 
@@ -14,7 +16,8 @@ End-to-end structured data extraction service for resumes. It accepts messy resu
 - Streamlit drag-and-drop UI
 - Evaluation script for per-field accuracy
 - Dockerized deployment
-- Simple local response cache
+- Local response caching to reduce cost and latency
+- Cost tracking per extraction
 
 ## Architecture
 
